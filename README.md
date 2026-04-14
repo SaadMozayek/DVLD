@@ -29,7 +29,7 @@ It helps organize applicants, tests, and license approvals in a structured way.
 3. Run the application  
 
 
-[images](images/)
+## images
 
 ![pic1](images/Screenshot%202026-04-14%20102043.png)
 ![pic1](images/Screenshot%202026-04-14%20102059.png)
