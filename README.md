@@ -31,9 +31,9 @@ It helps organize applicants, tests, and license approvals in a structured way.
 
 ## images
 
-![pic1](images/Screenshot 2026-04-14 102043.png)
-![pic1](images/Screenshot 2026-04-14 102059.png)
-![pic1](images/Screenshot 2026-04-14 103112.png)
+![pic1](images/Screenshot2026-04-14102043.png)
+![pic1](images/Screenshot2026-04-14102059.png)
+![pic1](images/Screenshot2026-04-14103112.png)
 
 
 
